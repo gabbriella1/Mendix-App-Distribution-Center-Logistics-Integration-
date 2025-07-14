@@ -28,7 +28,7 @@ The business logic and integration were implemented using **Mendix**, with real-
 
 ## Business Process Model
 
-The full supply chain process was modeled using BPMN. It includes quote requests, truck coordination, order staging, location tracking, and delivery confirmation. [BPMN Diagram](./BPMN%20of%20the%20whole%20business%20process%20(1).png)
+The full supply chain process was modeled using BPMN. It includes quote requests, truck coordination, order staging, location tracking, and delivery confirmation. [BPMN Diagram](./BPMN of the whole business process.png)
 
 ---
 

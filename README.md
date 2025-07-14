@@ -82,7 +82,7 @@ The full supply chain process was modeled using BPMN. It includes quote requests
 
 ## Report
 
-Refer to the full report for a more detailed explanation:  [`BPIL Project Report`](./BPIL%20Project%20(2)%20(1).pdf)
+Refer to the full report for a more detailed explanation:  [`report`](./report.pdf)
 
 ---
 
